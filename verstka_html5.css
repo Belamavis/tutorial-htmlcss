@@ -1,0 +1,31 @@
+html {
+	margin: 0;
+	padding: 5px;
+	background-color: black;
+}
+body {
+	margin: 3px;
+	padding: 6px;
+	background-color: #eee;
+}
+
+header {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(255,217,102);
+	font-size: 30pt;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+.div_null	{
+	width: 0;
+	height: 0;
+	padding: 0;
+	margin: 0;
+	outline: none;
+	clear: both;
+}
+
+.left	{ float: left;}
