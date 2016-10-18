@@ -8,7 +8,7 @@ html body	{ margin: 5px;	padding: 0;	background-color: gray;}
 .block1	{ width: 700px;	height: 50px;	outline: 3px solid black;	margin: 10px;			padding-top: 9px;	} 				/* padding-top = (50-32)/2 = 9px */
 .block2 { width: 180px;	height: 110px;	outline: 3px solid black; 	margin: 10px;			padding-top: 39px;	}				/* padding-top = (110-32)/2 = 39px */
 .block3 { width: 180px;	height: 40px;	outline: 3px solid black;	margin: 10px;			padding-top: 4px;	}				/* padding-top = (40-32)/2 = 4px */
-.block4 { width: 180px;	height: 55px;	outline: 3px solid black; 	margin: 15px 10px 10px;	padding-top: 11px;	}				/* padding-top = (55-32)/2 = 11px */
+.block4 { width: 180px;	height: 55px;	outline: 3px solid black; 	margin: 15px 10px 10px;		padding-top: 11px;	}				/* padding-top = (55-32)/2 = 11px */
 .block5 { width: 300px;	height: 110px;	outline: 3px solid black;	margin: 10px;			padding-top: 39px;	} 				/* padding-top = (110-32)/2 = 39px */
 .block6 { width: 180px;	height: 330px;	outline: 3px solid black;	margin: 10px;			padding-top: 149px;	}				/* padding-top = (330-32)/2 = 149px */
 .block7 { width: 500px;	height: 330px;	outline: 3px solid black;	margin: 10px;			padding-top: 149px;	}				/* padding-top = (330-32)/2 = 149px */
